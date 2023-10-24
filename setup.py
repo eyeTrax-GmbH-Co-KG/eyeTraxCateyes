@@ -14,7 +14,8 @@ REQS = [
     ]
 NSLR_REQS = [
     #"nslr @ git+https://github.com/pupil-labs/nslr",
-    "nslr @ git+https://gitlab.com/nslr/nslr.git",
+    #"nslr @ git+https://gitlab.com/nslr/nslr.git",
+    "nslr @ git+https://gitlab.com/nslr/nslr.git@a0c0fe437aae3ccb3f0ec9e5811a100c55934011",
     "nslr_hmm @ git+https://github.com/pupil-labs/nslr-hmm",
     #"nslr @ git+https://gitlab.com/nslr/nslr.git@b99f0b7b",
     #"nslr_hmm @ git+https://github.com/pupil-labs/nslr-hmm.git@main",
